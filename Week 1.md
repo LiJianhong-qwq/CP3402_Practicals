@@ -1,5 +1,6 @@
 # Learning Activities & Resources
 Because I found that most tutorials online cost money, and tutorials using text are not very intuitive. I chose to get html-related tutorials from ChatGPT. The specific operation was to ask him about html-related knowledge.
+
 https://chat.openai.com/share/a5a731fd-ad81-4dd7-bab7-8fa28e21abf7
 
 # Estimated Hours
