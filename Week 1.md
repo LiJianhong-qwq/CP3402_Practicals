@@ -1,9 +1,9 @@
-# A Learning Activities & Resources
+# Learning Activities & Resources
 
 
-# A Estimated Hours
+# Estimated Hours
 
 
-# A Content Insights
+# Content Insights
 
-# A Career/Employability/Learning Insights
+# Career/Employability/Learning Insights
