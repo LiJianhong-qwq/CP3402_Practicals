@@ -5,7 +5,9 @@ https://websitesetup.org/build-website-with-joomla/#:~:text=1%20Get%20a%20Web%20
 
 https://zhuanlan.zhihu.com/p/88000594
 # Estimated Hours
-This week had me confused from the beginning and took me 2 days
+This week had me confused from the beginning and took me 2 days.
+Goals of this assignment:
+Set up Joomla environment→Apply template→Export Joomla from local host→Upload to cloud server
 
 
 # Content Insights
